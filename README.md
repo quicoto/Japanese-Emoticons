@@ -4,7 +4,7 @@ Collection of Japanese Emoticons ready to be copied and used.
 
 This webapp works well on mobile as well as desktop. Just use your browser!
 
-Inspired from [http://kaomoji.ru/en/](http://kaomoji.ru/en/) but without cryptocurrency mining when viewing the site.
+Inspired from [http://kaomoji.ru/en/](http://kaomoji.ru/en/) but **without** cryptocurrency mining when viewing the site.
 
 ## Project setup
 ```

@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Japanese-Emoticons/robots.txt"
   },
   {
-    "revision": "2c86ba7bcfd1301874af9ef1fcfa7ae7",
+    "revision": "27405f9a6bcc88661b802fa9b61794c8",
     "url": "/Japanese-Emoticons/index.html"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = [
     "url": "/Japanese-Emoticons/assets/js/chunk-vendors.f880e5aa.js"
   },
   {
-    "revision": "50f7fd6f0e7bee20c936",
-    "url": "/Japanese-Emoticons/assets/js/app.50f7fd6f.js"
+    "revision": "13359a5a4cce2226edb6",
+    "url": "/Japanese-Emoticons/assets/js/app.13359a5a.js"
   },
   {
     "revision": "263c0b0478d877f0bb51",
     "url": "/Japanese-Emoticons/assets/js/about.263c0b04.js"
   },
   {
-    "revision": "50f7fd6f0e7bee20c936",
-    "url": "/Japanese-Emoticons/assets/css/app.805a10b6.css"
+    "revision": "13359a5a4cce2226edb6",
+    "url": "/Japanese-Emoticons/assets/css/app.07fc148b.css"
   }
 ];
