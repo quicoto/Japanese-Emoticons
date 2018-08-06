@@ -1,0 +1,386 @@
+  {
+    "categories": [
+      {
+        "id": 0,
+        "name": "Positive Emotions",
+        "subcategories": [
+          {
+            "id": 0,
+            "name": "Joy",
+            "items": [
+              {
+                "id": 0,
+                "value": "(* ^ ω ^)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 1,
+                "value": "(´ ∀ ` *)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 2,
+                "value": "٩(◕‿◕｡)۶",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 3,
+                "value": "☆*:.｡.o(≧▽≦)o.｡.:*☆",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 4,
+                "value": "(o^▽^o)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 5,
+                "value": "(⌒▽⌒)☆",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 6,
+                "value": "&lt;(￣︶￣)&gt;",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 7,
+                "value": "。.:☆*:･'(*⌒―⌒*)))",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 8,
+                "value": "ヽ(・∀・)ﾉ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 9,
+                "value": "(´｡• ω •｡`)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 10,
+                "value": "(￣ω￣)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 11,
+                "value": "｀;:゛;｀;･(°ε° )",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 12,
+                "value": "(o･ω･o)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 13,
+                "value": "(＠＾◡＾)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 14,
+                "value": "ヽ(*・ω・)ﾉ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 15,
+                "value": "(o_ _)ﾉ彡☆",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 16,
+                "value": "(^人^)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 17,
+                "value": "(o´▽`o)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 18,
+                "value": "(*´▽`*)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 19,
+                "value": "｡ﾟ( ﾟ^∀^ﾟ)ﾟ｡",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 20,
+                "value": "( ´ ω ` )",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 21,
+                "value": "(((o(*°▽°*)o)))",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 22,
+                "value": "(≧◡≦)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 23,
+                "value": "(o´∀`o)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 24,
+                "value": "(´• ω •`)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 25,
+                "value": "(＾▽＾)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 26,
+                "value": "(⌒ω⌒)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 27,
+                "value": "∑d(°∀°d)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 28,
+                "value": "╰(▔∀▔)╯",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 29,
+                "value": "(─‿‿─)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 30,
+                "value": "(*^‿^*)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 31,
+                "value": "ヽ(o^ ^o)ﾉ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 32,
+                "value": "(✯◡✯)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 33,
+                "value": "(◕‿◕)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 34,
+                "value": "(*≧ω≦*)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 35,
+                "value": "(☆▽☆)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 36,
+                "value": "(⌒‿⌒)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 37,
+                "value": "＼(≧▽≦)／",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 38,
+                "value": "ヽ(o＾▽＾o)ノ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 39,
+                "value": "☆ ～('▽^人)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 40,
+                "value": "(*°▽°*)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 41,
+                "value": "٩(｡•́‿•̀｡)۶",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 42,
+                "value": "(✧ω✧)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 43,
+                "value": "ヽ(*⌒▽⌒*)ﾉ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 44,
+                "value": "(´｡• ᵕ •｡`)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 45,
+                "value": "( ´ ▽ ` )",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 46,
+                "value": "(￣▽￣)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 47,
+                "value": "╰(*´︶`*)╯",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 48,
+                "value": "ヽ(&gt;∀&lt;☆)ノ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 49,
+                "value": "o(≧▽≦)o",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 50,
+                "value": "(☆ω☆)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 51,
+                "value": "(っ˘ω˘ς )",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 52,
+                "value": "＼(￣▽￣)／",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 53,
+                "value": "(*¯︶¯*)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 54,
+                "value": "＼(＾▽＾)／",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 55,
+                "value": "٩(◕‿◕)۶",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 56,
+                "value": "(o˘◡˘o)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 57,
+                "value": "XCjimIXPieKYhSkv",
+                "hasToBeDecoded": true
+            },
+            {
+                "id": 58,
+                "value": "XChe44OuXikv",
+                "hasToBeDecoded": true
+            },
+            {
+                "id": 59,
+                "value": "(〃＾▽＾〃)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 60,
+                "value": "(╯✧▽✧)╯",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 61,
+                "value": "o(&gt;ω&lt;)o",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 62,
+                "value": "o( ❛ᴗ❛ )o",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 63,
+                "value": "｡ﾟ(TヮT)ﾟ｡",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 64,
+                "value": "( ‾́ ◡ ‾́ )",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 65,
+                "value": "(ﾉ´ヮ`)ﾉ*: ･ﾟ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 66,
+                "value": "(b ᵔ▽ᵔ)b",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 67,
+                "value": "(๑˃ᴗ˂)ﻭ",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 68,
+                "value": "(๑˘︶˘๑)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 69,
+                "value": "( ˙꒳​˙ )",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 70,
+                "value": "(*꒦ິ꒳꒦ີ)",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 71,
+                "value": "°˖✧◝(⁰▿⁰)◜✧˖°",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 72,
+                "value": "(´･ᴗ･ ` )",
+                "hasToBeDecoded": false
+            },
+            {
+                "id": 73,
+                "value": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+                "hasToBeDecoded": false
+            }
+            ]
+          }
+        ]
+      }
+    ]
+  }
