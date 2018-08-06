@@ -6,13 +6,14 @@
           <li v-for="category in categories" :key="category.id">
             {{ category.name }}
 
-            <ul class="bookmarks-list" v-if="category.subcategories && category.subcategories.length > 0">
+            <ul class="bookmarks-list" v-if="category.subcategories
+            && category.subcategories.length > 0">
               <li v-for="subcategory in category.subcategories" :key="subcategory.id">
                 {{ subcategory.name }}
 
                 <ul class="bookmarks-list" v-if="subcategory.items && subcategory.items.length > 0">
                   <li v-for="item in subcategory.items" :key="item.id">
-                    <span v-html="item.value"></span>
+                    <span v-html="decode(item)"></span>
                   </li>
                 </ul>
               </li>
@@ -29,6 +30,19 @@ export default {
   data: () => ({
     categories: [],
   }),
+  methods: {
+    decode(item) {
+      console.log(item);
+
+      if (!item) return '';
+
+      if (item.hasToBeDecoded) {
+        return decodeURIComponent(escape(window.atob(item.value)));
+      }
+
+      return item.value;
+    },
+  },
   mounted() {
     const that = this;
 
@@ -52,7 +66,6 @@ export default {
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .bookmarks {
   &-section {
