@@ -1,11 +1,25 @@
 <template>
   <div>
     <h1>Bookmarks</h1>
-    <ul>
-      <li v-for="category in categories" :key="category.id">
-        {{ item.message }}
-      </li>
-    </ul>
+    <section class="bookmarks-section">
+        <ul class="bookmarks-list" v-if="categories && categories.length > 0">
+          <li v-for="category in categories" :key="category.id">
+            {{ category.name }}
+
+            <ul class="bookmarks-list" v-if="category.subcategories && category.subcategories.length > 0">
+              <li v-for="subcategory in category.subcategories" :key="subcategory.id">
+                {{ subcategory.name }}
+
+                <ul class="bookmarks-list" v-if="subcategory.items && subcategory.items.length > 0">
+                  <li v-for="item in subcategory.items" :key="item.id">
+                    <span v-html="item.value"></span>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+    </section>
   </div>
 </template>
 
@@ -15,7 +29,11 @@ export default {
   data: () => ({
     categories: [],
   }),
-  mounted: () => {
+  mounted() {
+    const that = this;
+
+    console.log(this.categories);
+
     fetch('data/data.json')
       .then((response) => {
         if (response.status !== 200) {
@@ -23,9 +41,8 @@ export default {
           return;
         }
 
-        // Examine the text in the response
         response.json().then((data) => {
-          console.log(data);
+          that.categories = data.categories;
         });
       })
       .catch((err) => {
@@ -37,18 +54,13 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
+.bookmarks {
+  &-section {
+    text-align: left;
+  }
+
+  &-list {
+    margin-left: 15px;
+  }
 }
 </style>

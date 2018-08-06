@@ -2,7 +2,7 @@ module.exports = {
   productionSourceMap: false,
 
   pwa: {
-    name: 'Japanese Emoticons'
+    name: 'Japanese Emoticons',
   },
 
   baseUrl: '/Japanese-Emoticons/',
@@ -10,5 +10,5 @@ module.exports = {
   assetsDir: 'assets',
   runtimeCompiler: undefined,
   parallel: undefined,
-  css: undefined
-}
+  css: undefined,
+};
