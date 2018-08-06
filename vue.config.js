@@ -5,7 +5,7 @@ module.exports = {
     name: 'Japanese Emoticons'
   },
 
-  baseUrl: undefined,
+  baseUrl: '/Japanese-Emoticons/',
   outputDir: undefined,
   assetsDir: 'assets',
   runtimeCompiler: undefined,
