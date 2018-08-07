@@ -31,6 +31,13 @@ export default {
     categories: [],
   }),
   methods: {
+    /**
+     * Decodes special emoticons that can't be stored as string
+     * @param {Object} item
+     * @param {boolean} item.hasToBeEncoded
+     * @param {string} item.value
+     * @returns {string}
+     */
     decode(item) {
       if (!item) return '';
 
