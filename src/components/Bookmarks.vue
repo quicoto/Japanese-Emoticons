@@ -32,8 +32,6 @@ export default {
   }),
   methods: {
     decode(item) {
-      console.log(item);
-
       if (!item) return '';
 
       if (item.hasToBeDecoded) {
@@ -45,8 +43,6 @@ export default {
   },
   mounted() {
     const that = this;
-
-    console.log(this.categories);
 
     fetch('data/data.json')
       .then((response) => {
