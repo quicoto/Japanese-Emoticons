@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "/Japanese-Emoticons/robots.txt"
   },
   {
-    "revision": "7890fdf6f149ab72d49cdd27b50f004f",
+    "revision": "2f0de0d5188e1de462ba34e1d31f50e5",
     "url": "/Japanese-Emoticons/index.html"
   },
   {
-    "revision": "67e672791547eefbe7ed35b028b84ed2",
+    "revision": "7337fcd78a053ad031436a24b23a06f8",
     "url": "/Japanese-Emoticons/data/data.json"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = [
     "url": "/Japanese-Emoticons/assets/js/chunk-vendors.f880e5aa.js"
   },
   {
-    "revision": "e3623b0a9632c3dd9ae4",
-    "url": "/Japanese-Emoticons/assets/js/app.e3623b0a.js"
+    "revision": "0ffef1b95399be953f96",
+    "url": "/Japanese-Emoticons/assets/js/app.0ffef1b9.js"
   },
   {
     "revision": "11b87d2b638ad5de84b2",
     "url": "/Japanese-Emoticons/assets/js/about.11b87d2b.js"
   },
   {
-    "revision": "e3623b0a9632c3dd9ae4",
-    "url": "/Japanese-Emoticons/assets/css/app.e5aa1460.css"
+    "revision": "0ffef1b95399be953f96",
+    "url": "/Japanese-Emoticons/assets/css/app.bdcd5185.css"
   }
 ];
