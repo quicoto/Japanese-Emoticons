@@ -17,7 +17,7 @@ importScripts(
   "/Japanese-Emoticons/precache-manifest.3aeacf99fd29b8cf022617ff1c39dc77.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "Japanese-Emoticons"});
+workbox.core.setCacheNameDetails({prefix: "japanese-emoticons"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to

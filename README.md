@@ -30,3 +30,8 @@ npm run lint
 ```
 npm run test:unit
 ```
+
+If you want to watch for file changes:
+```
+npm run watch:test
+```

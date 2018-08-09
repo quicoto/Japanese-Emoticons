@@ -1,12 +1,13 @@
 {
-  "name": "Japanese-Emoticons",
+  "name": "japanese-emoticons",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint",
-    "test:unit": "vue-cli-service test:unit"
+    "serve": "vue-cli-service serve --open --mode development",
+    "build": "vue-cli-service build --mode production --dest docs --target app --modern && gulp",
+    "lint": "vue-cli-service lint --no-fix",
+    "test:unit": "vue-cli-service test:unit",
+    "watch:test": "vue-cli-service test:unit --watch --notify"
   },
   "dependencies": {
     "gulp": "^3.9.1",
@@ -34,8 +35,5 @@
   },
   "gitHooks": {
     "pre-commit": "vue-cli-service lint --no-fix"
-  },
-  "vuePlugins": {
-    "ui": ["ui.js"]
   }
 }

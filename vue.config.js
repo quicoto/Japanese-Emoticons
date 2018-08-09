@@ -6,7 +6,7 @@ module.exports = {
   },
 
   baseUrl: '/Japanese-Emoticons/',
-  outputDir: undefined,
+  outputDir: 'docs',
   assetsDir: 'assets',
   runtimeCompiler: undefined,
   parallel: undefined,
