@@ -12,6 +12,10 @@
       <p>
         Inspired from <a href="http://kaomoji.ru/en/">http://kaomoji.ru/en/</a> but <strong>without</strong> cryptocurrency mining when viewing the site.
       </p>
+
+      <p>
+        No ads and no tracking. Use for free as much as you want.
+      </p>
     </section>
 
     <footer>
