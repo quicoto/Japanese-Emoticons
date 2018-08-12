@@ -1,0 +1,36 @@
+// Variables
+$padding-container: 20px 0;
+
+// ===========================
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+// Categories
+.category {
+  padding: $padding-container;
+}
+
+$backgrounds: (
+    0: #00b894,
+    1: #0984e3,
+    2: #d63031,
+    3: #fdcb6e,
+    4: #2d3436,
+    5: #6c5ce7,
+    6: #e17055
+);
+
+@each $background, $bgcolor in $backgrounds {
+  .category-#{$background} {
+    background: $bgcolor;
+  }
+}
+
+
+// About
+.about {
+  padding: $padding-container;
+}

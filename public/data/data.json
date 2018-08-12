@@ -1783,7 +1783,7 @@
             ]
         }, {
             "id": 3,
-            "name": "Various Actions",
+            "name": "Various 1",
             "subcategories": [{
                     "id": 0,
                     "name": "Anger",
@@ -2338,256 +2338,11 @@
                             "hasToBeDecoded": false
                         }
                     ]
-                },
-                {
-                    "id": 6,
-                    "name": "Hiding",
-                    "items": [{
-                            "id": 0,
-                            "value": "|･ω･)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 1,
-                            "value": "ﾍ(･_|",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 2,
-                            "value": "|ω･)ﾉ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 3,
-                            "value": "ヾ(･|",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 4,
-                            "value": "|д･)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 5,
-                            "value": "|_￣))",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 6,
-                            "value": "|▽//)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 7,
-                            "value": "┬┴┬┴┤(･_├┬┴┬┴",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 8,
-                            "value": "┬┴┬┴┤･ω･)ﾉ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 9,
-                            "value": "┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 10,
-                            "value": "┬┴┬┴┤(･_├┬┴┬┴",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 11,
-                            "value": "|_・)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 12,
-                            "value": "|･д･)ﾉ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 13,
-                            "value": "|ʘ‿ʘ)╯",
-                            "hasToBeDecoded": false
-                        }
-                    ]
-                },
-                {
-                    "id": 7,
-                    "name": "Writing",
-                    "items": [{
-                            "id": 0,
-                            "value": "__φ(．．)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 1,
-                            "value": "( ￣ー￣)φ__",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 2,
-                            "value": "__φ(。。)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 3,
-                            "value": "__φ(．．;)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 4,
-                            "value": "ヾ( `ー´)シφ__",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 5,
-                            "value": "__〆(￣ー￣ )",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 6,
-                            "value": "....φ(・∀・*)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 7,
-                            "value": "___〆(・∀・)",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 8,
-                            "value": "( ^▽^)ψ__",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 9,
-                            "value": "....φ(︶▽︶)φ....",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 10,
-                            "value": "( . .)φ__",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 11,
-                            "value": "__φ(◎◎ヘ)",
-                            "hasToBeDecoded": false
-                        }
-                    ]
-                },
-                {
-                    "id": 8,
-                    "name": "Running",
-                    "items": [{
-                            "id": 0,
-                            "value": "☆ﾐ(o*･ω･)ﾉ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 1,
-                            "value": "C= C= C= C= C=┌(;・ω・)┘",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 2,
-                            "value": "─=≡Σ((( つ＞＜)つ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 3,
-                            "value": "ε=ε=ε=ε=┌(;￣▽￣)┘",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 4,
-                            "value": "ε=ε=┌( &gt;_&lt;)┘",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 5,
-                            "value": "C= C= C= C=┌( `ー´)┘",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 6,
-                            "value": "ε===(っ≧ω≦)っ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 7,
-                            "value": "ヽ(￣д￣;)ノ=3=3=3",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 8,
-                            "value": "。。。ミヽ(。＞＜)ノ",
-                            "hasToBeDecoded": false
-                        }
-                    ]
-                },
-                {
-                    "id": 9,
-                    "name": "Sleeping",
-                    "items": [{
-                            "id": 0,
-                            "value": "[(－－)]..zzZ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 1,
-                            "value": "(－_－) zzZ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 2,
-                            "value": "(∪｡∪)｡｡｡zzZ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 3,
-                            "value": "(－ω－) zzZ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 4,
-                            "value": "(￣o￣) zzZZzzZZ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 5,
-                            "value": "(( _ _ ))..zzzZZ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 6,
-                            "value": "(￣ρ￣)..zzZZ",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 7,
-                            "value": "(－.－)...zzz",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 8,
-                            "value": "(＿ ＿*) Z z z",
-                            "hasToBeDecoded": false
-                        },
-                        {
-                            "id": 9,
-                            "value": "(x . x) ~~zzZ",
-                            "hasToBeDecoded": false
-                        }
-                    ]
                 }
             ]
         }, {
             "id": 4,
-            "name": "Animals",
+            "name": "Various 2",
             "subcategories": [{
                 "id": 0,
                 "name": "Cat",
@@ -2687,11 +2442,256 @@
                         "hasToBeDecoded": false
                     }
                 ]
+            },
+            {
+                "id": 6,
+                "name": "Hiding",
+                "items": [{
+                        "id": 0,
+                        "value": "|･ω･)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 1,
+                        "value": "ﾍ(･_|",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 2,
+                        "value": "|ω･)ﾉ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 3,
+                        "value": "ヾ(･|",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 4,
+                        "value": "|д･)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 5,
+                        "value": "|_￣))",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 6,
+                        "value": "|▽//)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 7,
+                        "value": "┬┴┬┴┤(･_├┬┴┬┴",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 8,
+                        "value": "┬┴┬┴┤･ω･)ﾉ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 9,
+                        "value": "┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 10,
+                        "value": "┬┴┬┴┤(･_├┬┴┬┴",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 11,
+                        "value": "|_・)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 12,
+                        "value": "|･д･)ﾉ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 13,
+                        "value": "|ʘ‿ʘ)╯",
+                        "hasToBeDecoded": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Writing",
+                "items": [{
+                        "id": 0,
+                        "value": "__φ(．．)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 1,
+                        "value": "( ￣ー￣)φ__",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 2,
+                        "value": "__φ(。。)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 3,
+                        "value": "__φ(．．;)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 4,
+                        "value": "ヾ( `ー´)シφ__",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 5,
+                        "value": "__〆(￣ー￣ )",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 6,
+                        "value": "....φ(・∀・*)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 7,
+                        "value": "___〆(・∀・)",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 8,
+                        "value": "( ^▽^)ψ__",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 9,
+                        "value": "....φ(︶▽︶)φ....",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 10,
+                        "value": "( . .)φ__",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 11,
+                        "value": "__φ(◎◎ヘ)",
+                        "hasToBeDecoded": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Running",
+                "items": [{
+                        "id": 0,
+                        "value": "☆ﾐ(o*･ω･)ﾉ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 1,
+                        "value": "C= C= C= C= C=┌(;・ω・)┘",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 2,
+                        "value": "─=≡Σ((( つ＞＜)つ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 3,
+                        "value": "ε=ε=ε=ε=┌(;￣▽￣)┘",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 4,
+                        "value": "ε=ε=┌( &gt;_&lt;)┘",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 5,
+                        "value": "C= C= C= C=┌( `ー´)┘",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 6,
+                        "value": "ε===(っ≧ω≦)っ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 7,
+                        "value": "ヽ(￣д￣;)ノ=3=3=3",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 8,
+                        "value": "。。。ミヽ(。＞＜)ノ",
+                        "hasToBeDecoded": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Sleeping",
+                "items": [{
+                        "id": 0,
+                        "value": "[(－－)]..zzZ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 1,
+                        "value": "(－_－) zzZ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 2,
+                        "value": "(∪｡∪)｡｡｡zzZ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 3,
+                        "value": "(－ω－) zzZ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 4,
+                        "value": "(￣o￣) zzZZzzZZ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 5,
+                        "value": "(( _ _ ))..zzzZZ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 6,
+                        "value": "(￣ρ￣)..zzZZ",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 7,
+                        "value": "(－.－)...zzz",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 8,
+                        "value": "(＿ ＿*) Z z z",
+                        "hasToBeDecoded": false
+                    },
+                    {
+                        "id": 9,
+                        "value": "(x . x) ~~zzZ",
+                        "hasToBeDecoded": false
+                    }
+                ]
             }]
         },
         {
             "id": 5,
-            "name": "Other Types",
+            "name": "Other",
             "subcategories": [{
                     "id": 0,
                     "name": "Friends",

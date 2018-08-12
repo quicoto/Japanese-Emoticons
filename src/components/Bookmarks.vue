@@ -1,25 +1,42 @@
 <template>
   <div>
-    <h1>Bookmarks</h1>
-    <section class="bookmarks-section">
-        <ul class="bookmarks-list" v-if="categories && categories.length > 0">
-          <li v-for="category in categories" :key="category.id">
+    <section class="container">
+      <div class="row" v-if="categories && categories.length > 0">
+        <div class="col-sm" v-for="category in categories" :key="category.id">
             {{ category.name }}
 
-            <ul class="bookmarks-list" v-if="category.subcategories
+            <ul class="list-unstyled" v-if="category.subcategories
             && category.subcategories.length > 0">
               <li v-for="subcategory in category.subcategories" :key="subcategory.id">
-                {{ subcategory.name }}
-
-                <ul class="bookmarks-list" v-if="subcategory.items && subcategory.items.length > 0">
-                  <li v-for="item in subcategory.items" :key="item.id">
-                    <span v-html="decode(item)"></span>
-                  </li>
-                </ul>
+                <a :href="'#' + category.id + '-' + subcategory.id">{{ subcategory.name }}</a>
               </li>
             </ul>
-          </li>
-        </ul>
+        </div>
+      </div>
+    </section>
+    <section>
+        <div v-if="categories && categories.length > 0">
+          <div :class="'text-white category container-fluid category-'+ index"
+          v-for="(category, index) in categories" :key="category.id">
+            <div class="container">
+            <h3>{{ category.name }}</h3>
+
+              <ul class="bookmarks-list" v-if="category.subcategories
+              && category.subcategories.length > 0">
+                <li v-for="subcategory in category.subcategories" :key="subcategory.id">
+                  <h4 :id="category.id + '-' + subcategory.id">{{ subcategory.name }}</h4>
+
+                  <ul class="bookmarks-list"
+                    v-if="subcategory.items && subcategory.items.length > 0">
+                    <li v-for="item in subcategory.items" :key="item.id">
+                      <span class="item" v-html="decode(item)"></span>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </div>  <!-- .container -->
+          </div> <!-- .container-fluid -->
+        </div>
     </section>
   </div>
 </template>
@@ -28,6 +45,7 @@
 export default {
   name: 'Bookmarks',
   data: () => ({
+    baseUrl: '/Japanese-Emoticons',
     categories: [],
   }),
   methods: {
@@ -68,15 +86,3 @@ export default {
   },
 };
 </script>
-
-<style scoped lang="scss">
-.bookmarks {
-  &-section {
-    text-align: left;
-  }
-
-  &-list {
-    margin-left: 15px;
-  }
-}
-</style>

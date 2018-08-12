@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/Japanese-Emoticons/precache-manifest.3aeacf99fd29b8cf022617ff1c39dc77.js"
+  "/Japanese-Emoticons/precache-manifest.efca8a40e6323dd2a91620cf6a1f7b65.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "japanese-emoticons"});
