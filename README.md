@@ -6,6 +6,12 @@ This webapp works well on mobile as well as desktop. Just use your browser!
 
 Inspired from [http://kaomoji.ru/en/](http://kaomoji.ru/en/) but **without** cryptocurrency mining when viewing the site.
 
+## Status
+
+[![Build Status](https://travis-ci.org/quicoto/Japanese-Emoticons.svg?branch=master)](https://travis-ci.org/quicoto/Japanese-Emoticons)
+[![dependencies Status](https://david-dm.org/quicoto/Japanese-Emoticons.svg)](https://david-dm.org/quicoto/Japanese-Emoticons)
+[![devDependencies Status](https://david-dm.org/quicoto/Japanese-Emoticons/dev-status.svg)](https://david-dm.org/quicoto/Japanese-Emoticons?type=dev)
+
 ## Project setup
 ```
 npm install
